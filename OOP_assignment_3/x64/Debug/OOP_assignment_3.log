@@ -1,0 +1,3 @@
+﻿  OOP_assignment_3.cpp
+C:\Users\markh\OneDrive\Documents\Gamer repositories\OOP\OOP_assignment_3\OOP_assignment_3\OOP_assignment_3.cpp(43,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  OOP_assignment_3.vcxproj -> C:\Users\markh\OneDrive\Documents\Gamer repositories\OOP\OOP_assignment_3\OOP_assignment_3\x64\Debug\OOP_assignment_3.exe
